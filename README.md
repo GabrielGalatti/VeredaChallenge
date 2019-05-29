@@ -91,5 +91,7 @@ Aqui são fatores que valem ser explorados e implementados, caso ache que faça 
 Você terá 7 dias desde o recebimento do teste, até a hora do último commit.
 Quaisquer dúvidas sobre qualquer assunto, basta entrar em contato com a gente (<tecnologia@veredaeducacao.com>).
 
+A entrega deve ser feita através de um repositório público do Github. Ao terminar, mande o link para a pessoa que te enviou esse teste.
+
 Boa sorte, divirta-se, mas lembre-se: O universo está em suas mãos!
 
